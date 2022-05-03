@@ -1,4 +1,4 @@
-# discord-bot-typescript-boilerplate
+# discogram
 
 🤖 NODE.TS - Start your next discord bot project in seconds.
 
@@ -7,8 +7,8 @@
 Clone project
 
 ```
-git clone git@github.com:BrunoS3D/discord-bot-typescript-boilerplate.git your-app-name
-cd your-app-name
+git clone git@github.com:BrunoS3D/discogram.git
+cd discogram
 ```
 
 Install dependencies

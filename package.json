@@ -1,5 +1,5 @@
 {
-  "name": "discord-bot-typescript-boilerplate",
+  "name": "discogram",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "license": "MIT",
@@ -12,13 +12,13 @@
   "dependencies": {
     "cross-env": "^7.0.3",
     "discord.js": "^12.2.0",
-    "env-cmd": "^10.1.0"
+    "env-cmd": "^10.1.0",
+    "prompts": "^2.4.2",
+    "telegram": "^2.7.12"
   },
   "devDependencies": {
     "@types/node": "^16.4.10",
     "@types/prompts": "^2.0.14",
-    "prompts": "^2.4.2",
-    "telegram": "^2.7.12",
     "ts-node-dev": "^1.1.8",
     "typescript": "^4.3.5"
   }
