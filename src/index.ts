@@ -91,7 +91,7 @@ const watchlist = ['Test channel', 'Bet and Game', '[ SALA PREMIUM ] - Specialis
     embed.setDescription(content);
     embed.setColor(0x088461);
 
-    const sendedMsg = await dChannel.send({ content: `@everyone`, embed: embed });
+    const sendedMsg = await dChannel.send({ content: `<@&971194115956047952>`, embed: embed });
 
     await sendedMsg.react('✅');
     await sendedMsg.react('❌');
